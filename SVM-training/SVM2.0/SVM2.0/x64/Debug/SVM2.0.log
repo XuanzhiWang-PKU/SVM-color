@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\yinquan\documents\visual studio 2015\projects\svm2.0\svm2.0\main.cpp(284): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  SVM2.0.vcxproj -> C:\Users\yinquan\Documents\Visual Studio 2015\Projects\SVM2.0\x64\Debug\SVM2.0.exe
+  SVM2.0.vcxproj -> C:\Users\yinquan\Documents\Visual Studio 2015\Projects\SVM2.0\x64\Debug\SVM2.0.pdb (Partial PDB)
